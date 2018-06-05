@@ -1,1 +1,2 @@
 # IntentMessage
+实现ListView条目的点击事件，传字符串给系统发短信Activity并打开此Activity
